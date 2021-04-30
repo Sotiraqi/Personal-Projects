@@ -1,1 +1,1 @@
-
+Selectarea activitatlor. Se considera o multime de activitati astfel incat fiecare dintre ele necesita acces exclusiv la o resursa comuna. Pentru fiecare activitate se cunoaste timpul de start  ̧si durata. Se cere determinarea unei submult ̧imi de cardinalitate maxim ̆a a acestor acivitati de astfel incat oricare doua activitati selectate sunt mutual compatibile (nu se suprapun in timp). Implementati doi algoritmi diferiti.
