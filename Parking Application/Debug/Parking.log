@@ -1,0 +1,5 @@
+﻿  main.cpp
+  parkingspot.cpp
+  Generating Code...
+D:\Parking\parkingspot.cpp(18): warning C4715: 'CParkingSpot::setSpot': not all control paths return a value
+  Parking.vcxproj -> D:\Parking\Debug\Parking.exe
