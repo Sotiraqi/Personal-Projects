@@ -1,2 +1,0 @@
-D:\Parking\Debug\Parking.exe
-D:\Parking\Debug\Parking.pdb
