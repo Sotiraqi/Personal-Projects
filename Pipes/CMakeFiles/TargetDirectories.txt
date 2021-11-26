@@ -1,0 +1,3 @@
+/home/sotiraq/dev/helloworld/CMakeFiles/rebuild_cache.dir
+/home/sotiraq/dev/helloworld/CMakeFiles/edit_cache.dir
+/home/sotiraq/dev/helloworld/CMakeFiles/helloworld.dir
